@@ -1,1 +1,1 @@
-echo "# Demo"
+# Echo Demo
